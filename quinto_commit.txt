@@ -8,5 +8,8 @@
 <body>
     <h1>Hola mundo</h1>
     <p>Este es un archivo HTML generado.</p>
+    <h2>XD</h2>
+
+    <p> pollo</p>
 </body>
 </html>
